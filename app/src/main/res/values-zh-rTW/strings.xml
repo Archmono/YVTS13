@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">171207測驗</string>
+
+    <string name="NAME">姓名:</string>
+    <string name="subNAME">請輸入姓名</string>
+    <string name="TEL">電話:</string>
+
+    <string name="ADD">新增</string>
+    <string name="EDIT">修改</string>
+    <string name="DELETE">刪除</string>
+
+    <string name="TEXTinfo">內容:</string>
+
+    <string name="Accept">確認</string>
+    <string name="Cancel">取消</string>
+
+    <string name="SendMSG">發送訊息</string>
+    <string name="CheckExit">是否離開</string>
+    <string name="CheckExitMSG">確定要結束應用程式嗎?</string>
+
+    <string name="input_NULL">請輸入完整資料!!</string>
+
+</resources>

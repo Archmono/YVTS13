@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">171207 TEST</string>
+
+    <string name="NAME">NAME:</string>
+    <string name="subNAME">Input your NAME</string>
+    <string name="TEL">TEL:</string>
+
+    <string name="ADD">Add</string>
+    <string name="EDIT">Edit</string>
+    <string name="DELETE">Delete</string>
+
+    <string name="TEXTinfo">Input Text:</string>
+
+    <string name="Accept">Accept</string>
+    <string name="Cancel">Cancel</string>
+
+    <string name="SendMSG">Send MSG</string>
+    <string name="CheckExit">Leave Check</string>
+    <string name="CheckExitMSG">Sure to leave app?</string>
+
+    <string name="input_NULL">Check input data!!</string>
+</resources>
